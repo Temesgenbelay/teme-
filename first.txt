@@ -1,1 +1,6 @@
-traniner of sage 
+include <iostream>
+using namespace std;
+int main{
+cout<<"hello sage"
+return 0;
+}
